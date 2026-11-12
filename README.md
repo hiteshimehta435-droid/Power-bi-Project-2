@@ -1,4 +1,5 @@
-<img width="1672" height="941" alt="Power BI Excel Sales Analyzer Dashboard" src="https://github.com/user-attachments/assets/403281da-df14-4dbb-b823-c7ac7b3062c2" />
+<img width="1672" height="154" alt="Power BI Excel Sales Analyzer Dashboard" src="https://github.com/user-attachments/assets/9822c064-5c70-40ed-bba1-eadb87df2c51" />
+
 
 
 # Myntra Retail Sales & Product Analysis Dashboard
