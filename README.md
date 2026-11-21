@@ -33,6 +33,7 @@ The dashboard is organized into three report pages:
 ## 🖥️ Dashboard Pages
 
 ### 1. Sales Overview
+<img width="992" height="552" alt="PR 2 1" src="https://github.com/user-attachments/assets/2c67e0e0-2636-48b3-a704-a66f77c53f3f" />
 
 
 
@@ -48,6 +49,7 @@ chart - KPI trend visuals
 categories, and brands.
 
 ### 2. Product Analysis
+<img width="1003" height="559" alt="PR 2 2" src="https://github.com/user-attachments/assets/eac687c3-27ce-4aa8-af2d-2d37877d5777" />
 
 
 
@@ -62,7 +64,7 @@ chart
 and compare size-wise product distribution across gender groups.
 
 ### 3. Retail Sales Performance
-
+<img width="1000" height="553" alt="PR 2 3" src="https://github.com/user-attachments/assets/aec75a0d-ab8e-49ee-ba38-5f5f3137530c" />
 
 
 
